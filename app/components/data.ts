@@ -1,11 +1,6 @@
-// app/components/data.ts
-export const rawContent = `
-Information Design 1
+export const data = [ 
+'Information Design 1
 Message Design
-
-
-
-
 
 
 
@@ -15,18 +10,6 @@ Information Design 1–Message Design
 
 Yin and yang, or yin-yang, is a concept used in Chinese phi-losophy to describe how seemingly opposite forces are inter-connected and interdependent, and how they give rise to each other. Many natural dualities, such as life and death, light and dark, are thought of as physical manifestations of the concept. Yin and yang can also be thought of as complementary forces interacting to form a dynamic system in which the whole is greater than the parts. In information design, theory and prac-tice is an example where the whole is greater than the parts.
 In this book drawings and photos are my own, unless other information.
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -3430,7 +3413,7 @@ Zhang, J. Normah, A. D. (1994). Representations in 18(2), 87-122.
 Zhang, J., & Patel, L. V. (2006). Distributed cognition, repre-sentation, and affordance, Pragmatics & Cognition, 14(2), 333-341.
 Zimmermann, M. L., & Perkin, G. W. (1982). Instructing through pictures: print materials for people who do not read. Information design journal, 3/2, 119-134.
 Zwaga, H. J. G., Boersma, T., & Hoonhout, H. C. M. (1999). By way of introduction: guidelines and design specifications in information design. In H. J. G. Zwaga, T. Boersma, and H.
-C. M. Hoonhout (Eds.). Visual information for everyday use. Design and research perspectives. London, Philadel-phia: Taylor & Francis.
-Åkestam, M. (2007). Albertus Pictors bilder av bebådelsen. In
-J. Öberg, E. Kihlman & P. Melin, (Ed.) (2007). Den mångsi-dige målaren. Vidgade perspektiv på Albertus Pictors bild-och textvärld. Stockholm, Sweden: Sällskapet Runica et Me-diævalia-Stockholms Universitet.
-;
+C. M. Hoonhout (Eds.). Visual information for everyday use. Design and research perspectives. London, Philadel-phia: Taylor & Francis.'
+`Åkestam, M. (2007). Albertus Pictors bilder av bebådelsen. In 
+J. Öberg, E. Kihlman & P. Melin, (Ed.) (2007). Den mångsidige målaren. Vidgade perspektiv från Stockholms Universitet.`,
+];
